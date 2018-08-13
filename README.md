@@ -1,2 +1,3 @@
 # dotfiles
-dot files for vim and tmux 
+dot files for vim, tmux, git
+
