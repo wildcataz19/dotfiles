@@ -1,0 +1,2 @@
+registry=https://artifactory.blu/api/npm/npm
+cafile=/usr/local/etc/openssl/certs/bv-ca-bundle.pem
